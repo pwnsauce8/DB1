@@ -8,5 +8,5 @@ Zákazníky nebo návštěvníci mohou přidávat příspěvky k lokomotivám a 
 příspěvky od několika zákazníků/návštěvníků. Každá lokomotiva má svou řadu a od každé 
 řady zákazník může mít několik lokomotiv
 
-** sp-mukanova-db1-2017 ** 
+**sp-mukanova-db1-2017**     
 Vsechne scripty pro vytvoreni DB + dokumentace
